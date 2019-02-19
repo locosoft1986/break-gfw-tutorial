@@ -58,4 +58,51 @@ SwitchyOmega安装和使用教程
 
   此模式一般会在Mac下设置，而控制全局和自动模式则是小飞机ShadowSocks NG的职责。注意玩游戏慎用ShadowSocks NG系统代理模式，因为所有App的连接都会试图走这一路。
 
-这一些配置后就可以访问Youtube，Facebook， SoundCloud，Twitter，Discord等等的网站了
+这一些配置后就可以访问Youtube，Facebook， SoundCloud，Twitter，Discord等等的网站了。
+
+
+为什么所有网站都打不开了？
+----------------------
+
+这个问题通常出在浏览器SwitchyOmega的模式选择问题：
+
+[请点击圈圈查看所选的模式](images/switchy-omega-status.jpg)
+
+或者是ShadowSocks Mac版的模式问题：
+
+[请点击右上角小飞机查看所选的模式](images/shadow-socks-status.jpg)
+
+或者是你的SS服务没钱没流量了
+
+
+如何添加ss服务器节点到Shadowsocks客户端
+-----------------------------------
+
+假如你已经购买好了服务，以RiftXX为例，登陆后进入你的服务控制台页面：
+
+![1. 点击你所购买的服务](images/rift-step1.jpg)
+
+![2. 往下拖会看到茫茫多的服务器](images/rift-scan.jpg)
+
+这边点SS二维码这一列的按钮，点击在想要加的服务器所属的“显示”按钮，这样二维码就出来了
+
+* 注意！！ 二维码内有你这个服务器的账户密码信息，请不要随意分享
+
+回到Shadowsocks客户端，Mac和Windows端都有这个扫码添加节点的功能（Windows版在“服务器”还是“连接”的菜单上）：
+
+![3. 确保桌面上有你刚才显示的二维码没有被遮住，点击ShadowSocks的“扫码添加节点”](images/scan-qr-code.jpg)
+
+Mac版的Shadowsocks菜单上选择服务器后确保：Shadowsocks是On的状态。
+
+Windows版则需要先选择服务器，然后点工具栏的第一个链接按钮
+
+如何查看SS服务流量
+---------------
+
+假如你已经购买好了服务，以RiftXX为例，登陆后进入你的服务控制台页面：
+
+![1. 点击你所购买的服务](images/rift-step1.jpg)
+
+![2. 你会在上面看到基础信息](images/rift-info.jpg)
+
+* 如果流量用完，你可以点击右边的提前续费按钮
