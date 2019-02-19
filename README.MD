@@ -1,4 +1,4 @@
-#### 如何科学上网教程
+# 如何科学上网教程
 
 安装浏览器
 --------
@@ -27,7 +27,9 @@ SS服务购买推荐
 ------------
 
 这里我推荐几个比较优秀的服务：
+
 [RiftXX](https://portal.riftxx.com):按照流量收费， 日本香港 台湾节点Youtube快的飞起。
+
 [CloudSS](https://go.cloudss.me):有流量和月租，日本香港也不错，但不支持Netflix
 
 * 在上网时 当有网址提示想访问GeoLocation就是地理位置时，尽量选禁止。
@@ -38,16 +40,22 @@ SwitchyOmega安装和使用教程
 
 安装SwitchyOmega的步骤请参考[SwitchyOmega Wiki链接](https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList).
   * 一开始会因为无法翻墙而导致无法访问谷歌商店，您也可以直接[在 Github 上下载最新版安装包](https://github.com/FelisCatus/SwitchyOmega/releases)，然后按照下载页面上的说明手动安装。
-  * Chrome浏览器在地址栏输入:[chrome://extensions](chrome://extensions)；Vivaldi浏览器则是[vivaldi://extensions]。进去以后可以把上面离线版的crx安装包拖入安装就可以。
+  * Chrome浏览器在地址栏输入:chrome://extensions；Vivaldi浏览器则是vivaldi://extensions。进去以后可以把上面离线版的crx安装包拖入安装就可以。
   * 注意先开Shadowsocks Windows或者NG连接ss服务后才能通过此插件翻墙。SwitchyOmega原理就是把GFWList里需要翻墙的网址通过本地的1080端口走到ShadowSocks-Windows或者Ng进行通信。
 
   SwitchyOmega各种模式是什么
   ------------------------
 
-  自动代理模式(Auto Proxy)：这个模式当你访问一个网址时，插件会查找GFWList中的列表，如果找到了说明该网址是被屏蔽需要翻墙，如果是像国内的常用网址那就直接连接不走代理，以节省代理服务器压力和流量。
+  #### 自动代理模式(Auto Proxy)：
 
-  全局代理模式(Global Mode): 这个模式下将无视列表，所有的网址都会走代理，注意在此模式开启下，部分国内视频会锁区，不过像某B站部分锁区视频也可以反过来解锁。
+  这个模式当你访问一个网址时，插件会查找GFWList中的列表，如果找到了说明该网址是被屏蔽需要翻墙，如果是像国内的常用网址那就直接连接不走代理，以节省代理服务器压力和流量。
 
-  系统代理模式: 此模式一般会在Mac下设置，而控制全局和自动模式则是小飞机ShadowSocks NG的职责。完游戏慎用ShadowSocks NG系统代理模式，因为所有App的连接都会试图走这一路。
+  #### 全局代理模式(Global Mode):
+  
+  这个模式下将无视列表，所有的网址都会走代理，注意在此模式开启下，部分国内视频会锁区，不过像某B站部分锁区视频也可以反过来解锁。
+
+  #### 系统代理模式:
+
+  此模式一般会在Mac下设置，而控制全局和自动模式则是小飞机ShadowSocks NG的职责。完游戏慎用ShadowSocks NG系统代理模式，因为所有App的连接都会试图走这一路。
 
 这一些配置后就可以访问Youtube，Facebook， SoundCloud，Twitter，Discord等等的网站了
