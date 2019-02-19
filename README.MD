@@ -66,11 +66,15 @@ SwitchyOmega安装和使用教程
 
 这个问题通常出在浏览器SwitchyOmega的模式选择问题：
 
-[请点击圈圈查看所选的模式](images/switchy-omega-status.jpg)
+请点击圈圈查看所选的模式
+
+![请点击圈圈查看所选的模式](images/switchy-omega-status.jpg)
 
 或者是ShadowSocks Mac版的模式问题：
 
-[请点击右上角小飞机查看所选的模式](images/shadow-socks-status.jpg)
+请点击右上角小飞机查看所选的模式
+
+![请点击右上角小飞机查看所选的模式](images/shadow-socks-status.jpg)
 
 或者是你的SS服务没钱没流量了
 
