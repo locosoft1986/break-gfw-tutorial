@@ -68,13 +68,13 @@ SwitchyOmega安装和使用教程
 
 请点击圈圈查看所选的模式
 
-![请点击圈圈查看所选的模式](images/switchy-omega-status.jpg)
+![请点击圈圈查看所选的模式](images/switchy-omega-status.jpg | width=900)
 
 或者是ShadowSocks Mac版的模式问题：
 
 请点击右上角小飞机查看所选的模式
 
-![请点击右上角小飞机查看所选的模式](images/shadow-socks-status.jpg)
+![请点击右上角小飞机查看所选的模式](images/shadow-socks-status.jpg | width=900)
 
 或者是你的SS服务没钱没流量了
 
@@ -86,11 +86,11 @@ SwitchyOmega安装和使用教程
 
 1. 点击你所购买的服务
 
-![1. 点击你所购买的服务](images/rift-step1.jpg)
+![1. 点击你所购买的服务](images/rift-step1.jpg | width=200)
 
 2. 往下拖会看到茫茫多的服务器
 
-![2. 往下拖会看到茫茫多的服务器](images/rift-scan.jpg)
+![2. 往下拖会看到茫茫多的服务器](images/rift-scan.jpg | width=200)
 
 3. 这边点SS二维码这一列的按钮，点击在想要加的服务器所属的“显示”按钮，这样二维码就出来了
 
@@ -101,7 +101,7 @@ SwitchyOmega安装和使用教程
 
 4. 确保桌面上有你刚才显示的二维码没有被遮住，点击ShadowSocks的“扫码添加节点”
 
-![3. 确保桌面上有你刚才显示的二维码没有被遮住，点击ShadowSocks的“扫码添加节点”](images/scan-qr-code.jpg)
+![3. 确保桌面上有你刚才显示的二维码没有被遮住，点击ShadowSocks的“扫码添加节点”](images/scan-qr-code.jpg | width=200)
 
 Mac版的Shadowsocks菜单上选择服务器后确保：Shadowsocks是On的状态。
 
@@ -114,10 +114,10 @@ Windows版则需要先选择服务器，然后点工具栏的第一个链接按�
 
 1. 点击你所购买的服务
 
-![1. 点击你所购买的服务](images/rift-step1.jpg)
+![1. 点击你所购买的服务](images/rift-step1.jpg | width=200)
 
 2. 你会在上面看到基础信息
 
-![2. 你会在上面看到基础信息](images/rift-info.jpg)
+![2. 你会在上面看到基础信息](images/rift-info.jpg | width=200)
 
 * 如果流量用完，你可以点击右边的提前续费按钮
