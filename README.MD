@@ -18,7 +18,7 @@ Vivaldi有比较好的用户体验以及颜值，同时和谷歌Chrome一样支�
 
 2. Mac
 
-Mac下简单很多，直接[在这里下载zip之后](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)，解压安装dmg文件，在右上角会多一个小飞机图标，就代表运行了。
+Mac下简单很多，直接[在这里下载zip之后](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)，解压安装dmg文件或者将App文件拖入应用程序(Applications)目录，双击运行后在右上角会多一个小飞机图标，就代表运行了。
 
 * ShadowSocks 运行后会在Windows的任务栏右边或者Mac的系统菜单栏的最右边的状态栏多出一个小飞机的图标，就代表运行了。之后就是通过其中的扫码或者手动录入
 
