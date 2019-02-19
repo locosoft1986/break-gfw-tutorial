@@ -68,13 +68,13 @@ SwitchyOmega安装和使用教程
 
 请点击圈圈查看所选的模式
 
-<img src="images/switchy-omega-status.jpg" width="900">
+<img src="images/switchy-omega-status.jpg" width="400">
 
 或者是ShadowSocks Mac版的模式问题：
 
 请点击右上角小飞机查看所选的模式
 
-<img src="images/shadow-socks-status.jpg" width="900">
+<img src="images/shadow-socks-status.jpg" width="400">
 
 或者是你的SS服务没钱没流量了
 
@@ -86,7 +86,7 @@ SwitchyOmega安装和使用教程
 
 1. 点击你所购买的服务
 
-<img src="images/rift-step1.jpg" width="200">
+<img src="images/rift-step1.jpg" width="400">
 
 2. 往下拖会看到茫茫多的服务器
 
