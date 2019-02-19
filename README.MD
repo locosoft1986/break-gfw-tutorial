@@ -118,6 +118,6 @@ Windows版则需要先选择服务器，然后点工具栏的第一个链接按�
 
 2. 你会在上面看到基础信息
 
-<img src="images/rift-info.jpg" width="200">
+<img src="images/rift-info.jpg" width="600">
 
 * 如果流量用完，你可以点击右边的提前续费按钮
