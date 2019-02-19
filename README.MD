@@ -114,7 +114,7 @@ Windows版则需要先选择服务器，然后点工具栏的第一个链接按�
 
 1. 点击你所购买的服务
 
-<img src="images/rift-step1.jpg" width="200">
+<img src="images/rift-step1.jpg" width="400">
 
 2. 你会在上面看到基础信息
 
