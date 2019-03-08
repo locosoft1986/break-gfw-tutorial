@@ -38,7 +38,7 @@ SS服务购买推荐
 SwitchyOmega安装和使用教程
 ------------------------
 
-安装SwitchyOmega的步骤请参考[SwitchyOmega Wiki链接](https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList).
+**必读！！**安装SwitchyOmega的步骤和GFW List模式配置请参考[SwitchyOmega Wiki链接](https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList).
   * 一开始会因为无法翻墙而导致无法访问谷歌商店，您也可以直接[在 Github 上下载最新版安装包](https://github.com/FelisCatus/SwitchyOmega/releases)，然后按照下载页面上的说明手动安装。
   * Chrome浏览器在地址栏输入:chrome://extensions；Vivaldi浏览器则是vivaldi://extensions。进去以后可以把上面离线版的crx安装包拖入安装就可以。
   * 注意先开Shadowsocks Windows或者NG连接ss服务后才能通过此插件翻墙。SwitchyOmega原理就是把GFWList里需要翻墙的网址通过本地的1080端口走到ShadowSocks-Windows或者Ng进行通信。
